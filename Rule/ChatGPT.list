@@ -39,3 +39,5 @@ DOMAIN-SUFFIX,sentry.io
 # 231116新增域名
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
+
+DOMAIN-SUFFIX,perplexity.ai
